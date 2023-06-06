@@ -116,7 +116,7 @@ header {
 .homeBanner {
   position: absolute;
   width: 100%;
-  top: 110%;
+  top: 80%;
   background: rgba(242, 242, 242, 0.6);
   padding-left: 20%;
   padding-top: 15px;
@@ -134,7 +134,7 @@ header {
   100% {
     background: rgba(242, 242, 242, 0.6);
     width: 100%;
-    top: 110%;
+    top: 80%;
   }
 }
 
