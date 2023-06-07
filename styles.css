@@ -10,6 +10,20 @@ header {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.bodyText {
+  margin: 5rem;
+}
+
+.reviewBTN {
+  padding: 15px; 
+  width: 190px;
+  border-radius: 3px;
+}
+.reviewBTN:hover {
+  background:rgb(98, 98, 139);
+
+
+}
 .logoImage {
   height: 180px;
   width: 230px;
